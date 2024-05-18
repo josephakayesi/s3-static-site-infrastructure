@@ -4,6 +4,8 @@
 
 This Terraform project sets up a static website using Amazon S3. Follow these steps to configure and successfully run the project.
 
+> :warning: Remember to destroy infrastructure to avoid unexpected costs.
+
 ### Setup
 
 #### Prerequisite
@@ -38,5 +40,3 @@ This Terraform project sets up a static website using Amazon S3. Follow these st
 
 6. **Destroy Infrasture**
    - Run `terraform destroy -auto-approve` remove infrastructure when done.
-
-> :warning: Remember to destroy infrastructure to avoid unexpected costs.

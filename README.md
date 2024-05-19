@@ -1,8 +1,8 @@
-## AWS Static Website Using Amazon S3 and Terraform
+## AWS Static Website Using Amazon S3, Cloudfront and Terraform
 
 ### Introduction
 
-This Terraform project sets up a static website using Amazon S3. Follow these steps to configure and successfully run the project.
+This Terraform project sets up a static website using Amazon S3 and Cloudfront. Follow these steps to configure and successfully run the project.
 
 > :warning: Remember to destroy infrastructure to avoid unexpected costs.
 

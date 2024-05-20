@@ -18,7 +18,7 @@ This Terraform project sets up a static website using Amazon S3 and Cloudfront. 
 
 1. **Create Terraform Variable File"**
 
-   - Run ` echo 'bucket_name = ""' > auto.tfvars`
+   - Run ` echo 'bucket_name = ""' > .auto.tfvars`
 
 2. **Update Bucket Name:**
 
